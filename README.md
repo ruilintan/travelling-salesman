@@ -1,2 +1,2 @@
 # travelling-salesman
-Java code for travelling salesman algorithm
+Brute force travelling salesman algorithm
